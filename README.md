@@ -5,16 +5,11 @@
 This project implements custom Principal Component Analysis (PCA) and K-Means clustering algorithms to classify "Cancer" and "Normal" samples using the ABIDE II dataset. It also includes validation on the Iris dataset to compare custom PCA with scikit-learn's PCA.
 
 # Usage
-1. Clone the repository:
-- git clone https://github.com/nvhungus/PCA-KMeans-Classification.git
-
-2. Install required dependencies:
-- pip install pandas numpy matplotlib seaborn scikit-learn
-
+1. Clone the repository
+2. Install required dependencies
 3. Place the ABIDE2.csv dataset in the project directory.
 4. Run the Jupyter notebook:
 - jupyter notebook ABIDE-II-Clustering.ipynb
-
 5. Execute the notebook cells to preprocess data, apply PCA and K-Means, and visualize results.
 
 # Algorithm
