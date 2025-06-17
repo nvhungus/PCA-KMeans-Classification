@@ -1,4 +1,5 @@
 # PCA-KMeans-Classification
+This is a project for the course Mathematical Methods for Artificial Intelligence at the University of Science, Vietnam National University, Ho Chi Minh City. The project applies Principal Component Analysis (PCA) and K-Means clustering to classify "Cancer" and "Normal" samples on the challenging ABIDE II dataset.
 
 # Project Overview
 
